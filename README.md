@@ -9,6 +9,6 @@ The Window Management program can help you manage windows in your computer on th
 
 The Window Management program features a simple interface and easy-to-use functionality
 
-窗口管理程序目前最新版本为1.26.08.12，此程序由DEFCONG编写
+窗口管理程序目前最新版本为1.26.08.17，此程序由DEFCONG编写
 
-The latest version of the Window Management program is 1.26.08.12,This program is written by DEFCONG
+The latest version of the Window Management program is 1.26.08.17,This program is written by DEFCONG
