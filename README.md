@@ -1,6 +1,8 @@
 # CKGL
 窗口管理程序(CKGL)(Window Management)
 
+最新版本位于https://gitcode.com/defcong/CKGL
+
 窗口管理程序可以帮助你管理电脑中的窗口在Windows系统中
 
 The Window Management program can help you manage windows in your computer on the Windows system
